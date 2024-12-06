@@ -1,0 +1,37 @@
+/* Custom Styling for User Details */
+.user-details {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card-header {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-body {
+  font-size: 1.1rem;
+}
+
+.card-body p {
+  margin-bottom: 10px;
+}
+
+.card-body strong {
+  color: #2c3e50; /* Slightly darker color for text */
+}
+
+.loading {
+  font-size: 1.5rem;
+  color: #3498db;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.loading p {
+  font-weight: bold;
+}
